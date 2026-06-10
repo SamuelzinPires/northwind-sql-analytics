@@ -417,8 +417,7 @@ projeto_northwind/
 
 ## 👤 Autor
 
-**Samuel** — Aspirante a Data Engineer  
-[LinkedIn](https://linkedin.com/in/SEU_PERFIL) · [GitHub](https://github.com/SEU_USUARIO)
+**Samuel** 
 
 ---
 
